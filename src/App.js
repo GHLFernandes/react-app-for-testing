@@ -26,9 +26,9 @@ function App() {
     <div className='App'>
       <div>Users:</div>
       {users.length ? (
-        <ul data-testId="user-list">
+        <ul data-testid="user-list">
           {users.map(user => (
-            <li key={user.id} className='user' data-testId='user-item'>
+            <li key={user.id} className='user' data-testid='user-item'>
               <span>{user.name}</span> (<span>{formatUserName(user.username)}</span>)
             </li>
           ))}
