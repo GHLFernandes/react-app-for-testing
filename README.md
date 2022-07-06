@@ -1,3 +1,3 @@
- # AplicaÁao React para teste
+ # Aplica√ßao React para teste
 
- Esta eh uma aplicaÁao mÌnima que exibir· usu·rios de uma API, utilizando a API de usu·rio JSONPlaceholder. Este aplicativo foi desenvolvido exclusivamente para testes de construÁ„o.
+ Esta e uma aplica√ß√£o m√≠nima que exibir√° usu√°rios de uma API, utilizando a API de usu√°rio JSONPlaceholder. Este aplicativo foi desenvolvido exclusivamente para constru√ß√£o de testes.
